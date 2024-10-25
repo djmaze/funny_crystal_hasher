@@ -1,0 +1,13 @@
+[package]
+name = "funny_crystal_hasher"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "funny_crystal_hasher"
+
+[dependencies]
+rand = "0.8.5"
+
+[dev-dependencies]
+rand = "0.8.5"
