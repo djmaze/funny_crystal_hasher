@@ -2,6 +2,11 @@
 name = "funny_crystal_hasher"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Reimplementation of the funny_hash algorithm"
+repository = "https://github.com/djmaze/funny_crystal_hasher"
+readme = "README.md"
+keywords = ["hash", "algorithm"]
 
 [lib]
 name = "funny_crystal_hasher"
